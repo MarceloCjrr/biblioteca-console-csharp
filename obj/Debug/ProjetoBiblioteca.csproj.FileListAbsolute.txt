@@ -1,0 +1,11 @@
+E:\CSharp\Exercicios\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe.config
+E:\CSharp\Exercicios\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.exe
+E:\CSharp\Exercicios\ProjetoBiblioteca\bin\Debug\ProjetoBiblioteca.pdb
+E:\CSharp\Exercicios\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.AssemblyReference.cache
+E:\CSharp\Exercicios\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\Exercicios\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.CoreCompileInputs.cache
+E:\CSharp\Exercicios\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.exe
+E:\CSharp\Exercicios\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.pdb
+E:\CSharp\Exercicios\ProjetoBiblioteca\bin\Debug\Newtonsoft.Json.dll
+E:\CSharp\Exercicios\ProjetoBiblioteca\bin\Debug\Newtonsoft.Json.xml
+E:\CSharp\Exercicios\ProjetoBiblioteca\obj\Debug\ProjetoBiblioteca.csproj.CopyComplete
